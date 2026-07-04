@@ -50,6 +50,7 @@
 This work addresses the challenge of open-vocabulary camouflaged object detection, where existing models struggle to identify objects that blend into their surroundings. We construct **OVCOD-D**, a benchmark containing 10k+ samples with 87 fine-grained semantic categories. The proposed method introduces a sub-description principal contrastive fusion strategy using SVD to eliminate text redundancy and extract discriminative features, along with a Spatial Focusing Gated Linear Unit (SF-GLU) for dynamic spatial feature enhancement. The model achieves **56.4 AP** on open-set evaluation, significantly outperforming YOLO-World and other baselines.
 
 [![Paper](https://img.shields.io/badge/Paper-CVPR%202026-9B59B6?style=for-the-badge&logo=arxiv&logoColor=white)](https://cvpr.thecvf.com/virtual/2026/poster/36400)
+[![Code](https://img.shields.io/badge/Code-SDDF-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zh1fen/SDDF)
 
 ---
 
