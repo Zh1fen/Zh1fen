@@ -1,9 +1,6 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1200&color=B8C7FF&center=true&vCenter=true&width=640&lines=Yifeng+Zhan;Embodied+Intelligence+%C2%B7+World+Models+%C2%B7+Representation+Learning;Building+perceptual+systems+for+embodied+agents;Killing+it+at+CVPR+2026+%F0%9F%94%A5" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1200&color=3B4252&center=true&vCenter=true&width=640&lines=Yifeng+Zhan;Embodied+Intelligence+%C2%B7+World+Models+%C2%B7+Representation+Learning;Building+perceptual+systems+for+embodied+agents;Killing+it+at+CVPR+2026+%F0%9F%94%A5" alt="Typing SVG">
-  </picture>
-</div>
+# Yifeng Zhan
+
+**Embodied Intelligence · World Models · Representation Learning**
 
 <p align="center">
   📍 Shenzhen, China &nbsp;|&nbsp;
@@ -17,29 +14,30 @@
   <img src="https://img.shields.io/github/stars/Zh1fen?label=Total+Stars&style=for-the-badge&color=FFD700&logo=apachespark" alt="Stars" />
 </p>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3500&pause=1200&color=B8C7FF&center=true&vCenter=true&width=640&lines=Building+perceptual+systems+for+embodied+agents;Exploring+world+models+and+action+representations;From+open-vocabulary+detection+to+vision-language-action;Killing+it+at+CVPR+2026+%F0%9F%94%A5" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3500&pause=1200&color=3B4252&center=true&vCenter=true&width=640&lines=Building+perceptual+systems+for+embodied+agents;Exploring+world+models+and+action+representations;From+open-vocabulary+detection+to+vision-language-action;Killing+it+at+CVPR+2026+%F0%9F%94%A5" alt="Typing SVG">
+  </picture>
+</div>
+
 ---
 
-### Highlights
+## Highlights
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Zh1fen&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zh1fen&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://streak-stats.demolab.com/?user=Zh1fen&theme=radical&hide_border=true" alt="GitHub Streak" width="70%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?label=Public%20Repos&query=public_repos&url=https://api.github.com/users/Zh1fen&style=for-the-badge&color=blue" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Gists&query=public_gists&url=https://api.github.com/users/Zh1fen&style=for-the-badge&color=2EB886" alt="Gists" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Followers&query=followers&url=https://api.github.com/users/Zh1fen&style=for-the-badge&color=8A2BE2" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Following&query=following&url=https://api.github.com/users/Zh1fen&style=for-the-badge&color=9B59B6" alt="Following" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zh1fen&theme=react-dark&hide_border=true&area=true&color=7F7FD5&line=91EAE4&point=86A8E7" alt="Activity Graph" width="95%" />
-</div>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Zh1fen&theme=radical&hide_border=true" />
+    <img src="https://streak-stats.demolab.com/?user=Zh1fen&theme=github&hide_border=true" alt="GitHub Streak" width="70%" />
+  </picture>
+</p>
 
 ---
 
